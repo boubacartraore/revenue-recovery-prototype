@@ -1,0 +1,9 @@
+model_rank,id,type,value,status,description
+1,L-3301,Lead,450,New - Uncontacted,72-hour old uncontacted inbound lead for residential service.
+2,Q-1003,Estimate,12500,Pending Quote,Large roof replacement estimate sent 5 days ago.
+3,I-2044,Invoice,3100,Overdue Net-30,Completed electrical repair invoice overdue by 15 days.
+4,I-2045,Invoice,850,Overdue Net-30,Standard plumbing service invoice overdue by 25 days.
+5,Q-1001,Estimate,4200,Pending Quote,HVAC system tune-up & minor repair estimate sent 10 days ago.
+6,Q-1004,Estimate,6800,Pending Quote,Recent kitchen remodel plumbing rough-in estimate.
+7,L-3302,Lead,300,New - Uncontacted,Fresh morning inbound inquiry for routine inspection.
+8,Q-1002,Estimate,1500,Stale Quote,Old minor repair estimate sent 25 days ago with no response.

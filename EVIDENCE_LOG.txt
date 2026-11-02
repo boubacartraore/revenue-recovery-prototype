@@ -1,0 +1,16 @@
+REVENUE RECOVERY — PROTOTYPE 0.3.3
+Date: 2026-11-02
+
+Purpose:
+Deployment-ready external reviewer validation.
+
+Changes from 0.3.2:
+1. Years-of-experience changed from a default-zero slider to a required categorical dropdown.
+2. Persistent cloud storage support added via Supabase.
+3. Local CSV retained only as a testing fallback.
+4. Reviewer-facing experiment remains blinded to prior responses.
+5. Model ranking and scenarios remain frozen.
+
+Evidence objective:
+Collect independent external judgments with reviewer-role and experience metadata
+while preserving response durability during cloud deployment.
